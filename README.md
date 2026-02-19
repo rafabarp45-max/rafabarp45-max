@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rafael Barp! 👋
 
-<!--
-**rafabarp45-max/rafabarp45-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics Student | EU Citizen | Based in Dublin, Ireland 🇮🇪
 
-Here are some ideas to get you started:
+I am a Data Analytics student at **CCT College Dublin** with a solid background in technical operations and logistics (Aviation Industry). I am passionate about transforming raw data into actionable insights to solve complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Skills
+
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL).
+* **Data Visualization:** Matplotlib, Seaborn, Advanced Excel.
+* **Tools:** Jupyter Notebook, Git/GitHub, Power Query, VBA.
+* **Methodologies:** Exploratory Data Analysis (EDA), Predictive Modelling, Data Cleaning & Integrity.
+
+---
+
+### 📁 Featured Projects
+
+- **[Data Exploration & Preparation - Spambase Dataset](https://github.com/rafabarp45-max/Data-exploration-and-preparation-project-2)** *In-depth cleaning and EDA using Python, focusing on dimensionality analysis and data quality.*
+
+---
+
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-da-rosa-barp-798948388/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafabarp45@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+I have a strong background in high-pressure environments, from aviation logistics at Dublin Airport to precision manufacturing in Italy and Brazil. I believe data is the key to optimizing any operation!
