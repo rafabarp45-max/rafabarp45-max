@@ -17,15 +17,16 @@ I am a Data Analytics student at **CCT College Dublin** with a solid background 
 
 ## 🚀 Featured Projects
 
-### 🤖 Machine Learning: Abalone Age Prediction
+- **🤖 Machine Learning: Abalone Age Prediction**
 Predicting the age of abalones using regression models (Linear, Ridge, Lasso) based on physical measurements. Developed following the **CRISP-DM** methodology.
 * **Tech Stack:** Python, Pandas, Scikit-Learn, Seaborn.*
 
-### 📊 Financial Control & Investment Dashboard
+- **📊 Financial Control & Investment Dashboard**
 A comprehensive personal finance system built in Excel to track daily expenses and investment portfolio performance.
 * **Key Features:** Power Query, Dynamic Dashboards, Pivot Tables.*
 
-- **[Data Exploration & Preparation - Spambase Dataset](https://github.com/rafabarp45-max/Data-exploration-and-preparation-project-2)** *In-depth cleaning and EDA using Python, focusing on dimensionality analysis and data quality.*
+- **[Data Exploration & Preparation - Spambase Dataset](https://github.com/rafabarp45-max/Data-exploration-and-preparation-project-2)**
+In-depth cleaning and EDA using Python, focusing on dimensionality analysis and data quality.*
 
 ---
 
