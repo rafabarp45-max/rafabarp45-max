@@ -17,7 +17,7 @@ I am a Data Analytics student at **CCT College Dublin** with a solid background 
 
 ## 🚀 Featured Projects
 
-- **🤖 Machine Learning: Abalone Age Prediction**
+- **🤖 [Machine Learning: Abalone Age Prediction](https://github.com/rafabarp45-max/Machine-Learn-College-Project-1)**
 Predicting the age of abalones using regression models (Linear, Ridge, Lasso) based on physical measurements. Developed following the **CRISP-DM** methodology.
 * **Tech Stack:** Python, Pandas, Scikit-Learn, Seaborn.*
 
