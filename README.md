@@ -21,7 +21,7 @@ I am a Data Analytics student at **CCT College Dublin** with a solid background 
 Predicting the age of abalones using regression models (Linear, Ridge, Lasso) based on physical measurements. Developed following the **CRISP-DM** methodology.
 * **Tech Stack:** Python, Pandas, Scikit-Learn, Seaborn.*
 
-- **📊 Financial Control & Investment Dashboard**
+- **📊 [Financial Control & Investment Dashboard](https://github.com/rafabarp45-max/Personal-Finance-Analytics-Performance-Tracker-)**
 A comprehensive personal finance system built in Excel to track daily expenses and investment portfolio performance.
 * **Key Features:** Power Query, Dynamic Dashboards, Pivot Tables.*
 
