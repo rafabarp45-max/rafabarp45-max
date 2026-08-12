@@ -1,6 +1,6 @@
 # Hi, I'm Rafael Barp! 👋
-### Data Analytics Graduate | Predictive Data Analytics Student | EU Citizen | Based in Dublin, Ireland 🇮🇪
-I'm a Data Analytics graduate (NFQ Level 7, **CCT College Dublin**, completed July 2026), now advancing into the Diploma in Predictive Data Analytics (CCT College Dublin, since June 2026) to deepen my expertise in predictive modelling, forecasting and applied statistics. I bring a solid background in technical operations and logistics (Aviation Industry), and I'm passionate about transforming raw data into actionable insights to solve complex problems.
+### Data Analytics Graduate | Predictive Data Analytics Student | Incoming Higher Diploma Student | EU Citizen | Based in Dublin, Ireland 🇮🇪
+I'm a Data Analytics graduate (NFQ Level 7, **CCT College Dublin**, completed July 2026), currently pursuing the Diploma in Predictive Data Analytics (CCT College Dublin, since June 2026) and accepted into the Higher Diploma in Data Analytics for Business (NFQ Level 8, CCT College Dublin), starting September 2026, to deepen my expertise in predictive modelling, forecasting and applied statistics. I bring a solid background in technical operations and logistics (Aviation Industry), and I'm passionate about transforming raw data into actionable insights to solve complex problems.
 ---
 ### 🛠 Technical Skills
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL).
